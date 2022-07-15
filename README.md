@@ -1,5 +1,12 @@
-  <h1>注意:<br/>
+<h1>申明!!!</h1>
+ 最近有群里说是我们的项目有后门钓鱼红队的。烦请这些沙雕带带脑子。这项目早就出来了不是最近才出来。我们的项目没有任何后门!!!我们看不起任何方式的放后门的行为。要不免费要不付费别放后门。
+ 这种脑残言论要禁止。
+ 
+ ![脑残言论](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools-5.0/main/%E7%94%B3%E6%98%8E.jpg)<br/>
+ <h2>该项目没有任何后门(木马,webshell箱子)</h2>
+<h1>注意:<br/>
   切勿利用本工具对未授权的网站进行非法攻击。由此产生的法律后果由使用者自行承担!!!另外本软件不适合刚学渗透测试的人员使用。新手可以star一下。后续技术好点可以使用。新手误发私信(有关软件使用方法自己解决。扫描出漏洞自己解决)。另外由于大环境和广大朋友一再请求。在国内本软件将只在hw前放出时间一个月。在国内广大朋友平时勿扰。国内虎网放出。本工具将整合所有能整合的web漏洞本工具为综合性利用工具!!!。2022打算学习新知识框架5.0为终极版。Thanks To 敏捷线程池 Foreigner:啊米把 提供优秀的框架。郑重提示:有些国内外的大佬老是飞机和我讨论问谁牛不牛逼啥的这些就别来烦我了。我比较菜也只会写个工具。至于什么渗透测试 安卓逆向 代码审计 内网渗透啥的我也不懂。我只会开发工具。别浪费时间讨论我牛不牛逼多花点时间学习学习提高自己。我承认我不牛逼比较菜。讨论这些的也别和我讨论我不牛逼骚扰太多的话我直接永久拉黑。注意:tg飞机上 有飞鱼公子 啥的这些都不是github的这个别被骗子骗了!!!!</h1>
+  
   <h3>由于网络安全新法本软件将在2021年9月1号停止发布!!!!江湖再见,后会有期!!!!软件由于无法运行故删除原有压缩包。软件存在重大bug运行时遇到某种状况会奔溃故停止运行。未来可能会放出修复版本。看网络安全法吧</h3>
   
   <h1>预告:软件5.0新版功能 作者:Anonymous-ghost&虚愚公子  软件作者不光我一个人还有我朋友加入 他负责漏洞收集工作和单个exp编写工作!!!软件公开或者怎么样听从我朋友的意见!!!。另外本软件是我和我朋友利用工作之余开发的软件属于个人软件不属于任何公司!!!weblogic漏洞较少请大家遇到weblogic使用专用工具进行检测。以后有时间会更新weblogic 感谢大家star 项目已经有1.1kstar 了。后续会再接再厉完善工具。使其成为最全的exp poc工具 大家一起努力。另外切勿利用工具对未授权网站进行非法攻击。由此产生的法律后果由使用者自行承担。</h1>
@@ -53,7 +60,8 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
  ![menu](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/5.0Exp.png)
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/Menu-dll-5.0.png)
  <h1>AttackWebFrameworkTools 5.0 For RedTeam </h1>
-<p><a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost&&%E8%99%9A%E6%84%9A%E5%85%AC%E5%AD%90-red" style="max-width:100%;"></a>
+<p><a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <
+alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost&&%E8%99%9A%E6%84%9A%E5%85%AC%E5%AD%90-red" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Version" src="https://img.shields.io/badge/AttackWebFrameworkTools-Version5.0-faa755" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="type" src="https://img.shields.io/badge/type-bin-blueviolet" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"><img alt="Release" src="https://img.shields.io/badge/language-C%23/C++-ff69b4.svg" style="max-width:100%;"></a>
