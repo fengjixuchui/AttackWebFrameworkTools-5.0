@@ -70,6 +70,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+  <li>2022-06-19 更新 蓝凌OA treexml RCE 过阿里云webshell使用自定义编码器(landrayoa),thinkphp 任意文件读取漏洞 开启debug模式(thinkphp) </li>
    <li>2022-06-15 更新 Apereo Cas 4.1.x  反序列化漏洞(yunwei),Atlassian Confluence存在远程代码执行漏洞CVE-2022-26134(atlassianconfl)</li>
     <li>2022-05-19 更新CVE-2022-30525(firewall)  zyxel 远程命令执行漏洞。该漏洞由于不回显采用 dnslog方式探测根据网络原因 可能会出现漏报!!!! </li>
    <li>2022-05-09 更新CVE-2022-1388  F5 big ip Rce (bigip) 由于exp特殊原因.net框架特殊原因只进行检测可能会有误报 from https://github.com/bytecaps/CVE-2022-1388-EXP </li>
