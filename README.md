@@ -74,7 +74,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
-   <li>2022-08-17 更新 修复http编码导致部分网站遗落的重大bug,更新用友时空 ksoa 任意文件上传(oa),nsfocus resourse.php 任意文件上传漏洞,安恒明御waf绕过登录(firewall),红帆医用系统sql注入漏洞,浪擎灾被软件添加用户(hwcms), 华天动力文件上传(htoa),用友u8任意文件上传(yongyougrp),泛微-EOffice文件上传漏洞,泛微OA ecology9任意文件上传,泛微OA 文件上传，weaverEcology8 sessionKey登录(weaveroa),h3c cas文件上传漏洞,天融信上网审计管理系统rce,联软安界 UniSDP 软件定义边界系统RCE(yunwei),用友nc GRP文件上传漏洞(yongyouu8),致远oa任意文件上传漏洞等共计16枚 漏洞(eeyonoa)
+   <li>2022-08-17 更新 修复http编码导致部分网站遗落的重大bug,更新用友时空 ksoa 任意文件上传(oa),nsfocus resourse.php 任意文件上传漏洞,安恒明御waf绕过登录(firewall),红帆医用系统sql注入漏洞,浪擎灾被软件添加用户(hwcms), 华天动力文件上传(htoa),用友u8任意文件上传(yongyougrp),泛微-EOffice文件上传漏洞,泛微OA ecology9任意文件上传,泛微OA 文件上传，weaverEcology8 sessionKey登录(weaveroa),h3c cas文件上传漏洞,天融信上网审计管理系统rce,联软安界 UniSDP 软件定义边界系统RCE(yunwei),用友nc GRP文件上传漏洞(yongyouu8),致远oa任意文件上传漏洞!!!!(seeyonoa)等共计16枚漏洞,软件后续发布!!!!
    </li>
   <li>2022-07-19 更新 蓝凌OA treexml RCE 过阿里云webshell,使用自定义编码器过阿里云流量监测(landrayoa),thinkphp 任意文件读取漏洞 开启debug模式(thinkphp) </li>
    <li>2022-06-15 更新 Apereo Cas 4.1.x  反序列化漏洞(yunwei),Atlassian Confluence存在远程代码执行漏洞CVE-2022-26134(atlassianconfl)</li>
