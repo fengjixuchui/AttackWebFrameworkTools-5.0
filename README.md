@@ -75,7 +75,8 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
   <li>2022-08-26 更新  zimbra-邮件系统文件上传漏洞 CVE-2022-27925(zimbra),金和oa文件上传漏洞,用友时空 ksoa 任意文件上传,致翔OA sql注入(oaAll)</li>
-  <li>2022-08-18软件更新日志记录!!!</li>
+   <li>更新日志记录软件已经停止更新!!!</li>
+  <li>以下为2022-08-18软件更新日志记录!!!</li>
    <li>2022-08-17 更新 修复http编码导致部分网站遗落的重大bug,更新用友时空 ksoa 任意文件上传(oa),nsfocus resourse.php 任意文件上传漏洞,安恒明御waf绕过登录(firewall),红帆医用系统sql注入漏洞,浪擎灾被软件添加用户(hwcms), 华天动力文件上传(htoa),用友u8任意文件上传(yongyougrp),泛微-EOffice文件上传漏洞,泛微OA ecology9任意文件上传,泛微OA 文件上传，weaverEcology8 sessionKey登录(weaveroa),h3c cas文件上传漏洞,天融信上网审计管理系统rce,联软安界 UniSDP 软件定义边界系统RCE(yunwei),用友nc GRP文件上传漏洞(yongyouu8),致远oa任意文件上传漏洞!!!!(seeyonoa)等共计16枚漏洞,软件后续发布!!!!
    </li>
   <li>2022-07-19 更新 蓝凌OA treexml RCE 过阿里云webshell,使用自定义编码器过阿里云流量监测(landrayoa),thinkphp 任意文件读取漏洞 开启debug模式(thinkphp) </li>
