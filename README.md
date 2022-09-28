@@ -74,6 +74,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+   <li>2022-09-28 更新 easyCVR 接口信息泄露(gateway)</li>
   <li>2022-08-26 更新  zimbra-邮件系统文件上传漏洞 CVE-2022-27925 From https://github.com/miko550/CVE-2022-27925   (zimbra),金和oa文件上传漏洞,用友时空 ksoa 任意文件上传,致翔OA sql注入(oaAll)</li>
    <li>更新日志记录软件已经停止更新!!!</li>
   <li>以下为2022-08-18软件更新日志记录!!!</li>
