@@ -74,6 +74,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+   <li>2022-10-04 更新 排除模块功能选项具体。看演示截图 修复dnslog 逻辑 代码</li>
    <li>2022-09-28 更新 easyCVR 接口信息泄露(gateway)</li>
   <li>2022-08-26 更新  zimbra-邮件系统文件上传漏洞 CVE-2022-27925 From https://github.com/miko550/CVE-2022-27925   (zimbra),金和oa文件上传漏洞,用友时空 ksoa 任意文件上传,致翔OA sql注入(oaAll)</li>
    <li>更新日志记录软件已经停止更新!!!</li>
@@ -192,6 +193,7 @@ Finetree-5MP-摄像机 未授权添加账号密码,弱密码
   <h3>内置exp模式</h3>
 url.txt 中网站一行一个且必须以http:// https:// 开头<br/>
 启动勾选模式,需要创建include.txt。模块一行一个具体看 勾选功能演示<br/>
+启动排除模块模式,需要创建uninclude.txt。模块一行一个具体看 排除模块功能演示<br/>
 AttackWebFrameworkTools.exe 所有exp都跑使用默认线程模式(注意劲量不要使用全部模块一个耗时太长。另一个有waf被ban ip导致速度变慢建议使用勾选模块方式或者指定模块。如果您确定没有waf什么影响那么全部模块没毛病!!!)<br/>
 AttackWebFrameworkTools.exe  -thread 200 所有exp都跑使用自定义线程模式<br/>
 AttackWebFrameworkTools.exe -type thinkphp 使用默认线程跑 thinkphp框架漏洞使用说明<br/>
@@ -215,7 +217,7 @@ AttackWebFrameworkToolsUser.exe -url http://www.baidu.com -dllname test.dll    �
  演示忘记截图加ThreadHelper.dll 必须要有否则报错。。
  ![userage](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/UserDllExpHelp.png)
  ![userage](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/DllAttack.png)
-  如果要使用勾选功能见上图实测效果。勾选功能演示。如果想自定义作者见自定义作者演示图<br/>
+  如果要使用勾选功能见上图实测效果。勾选功能演示。如果想启用排除模块功能,请看排除模块功能截图演示 如果想自定义作者见自定义作者演示图<br/>
 <h3>内置exp模块</h3>
 集成漏洞如下(-type参数) 注意有的type参数虽然标注了两个类别但并不代表这个参数只包含这两个漏洞!!!!<br/>
 thinkphp<br/>
@@ -353,6 +355,10 @@ YAPI RCE 漏洞实战测试
 勾选功能演示
 
 ![勾选功能](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/include.png)<br/>
+
+排除模块功能演示
+
+![排除模块功能](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/uninclude.png)<br/>
 
 CVE-2021-30461 VOIP Monitor RCE 演示截图
 
