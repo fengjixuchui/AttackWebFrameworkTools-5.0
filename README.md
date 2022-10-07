@@ -1,9 +1,13 @@
 <h1>申明!!!</h1>
  最近有群里说是我们的项目有后门钓鱼红队的。烦请这些沙雕带带脑子。这项目早就出来了不是最近才出来。我们github所有项目没有任何后门!!!我们看不起任何方式的放后门的行为。要不免费要不付费别放后门。
  这种脑残言论要禁止。
+
  
  ![脑残言论](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools-5.0/main/%E7%94%B3%E6%98%8E.png)<br/>
  <h2>该项目没有任何后门(木马,webshell箱子) 说有后门的脑残直接回收站。</h2>
+ 
+
+<h2>最近发现软件exp生成器和主程序莫名启动不了的bug将在hw或以后修复bug并且更新部分Exp。由于最近钓鱼项目和骗子网站骗子比较多我开一个项目专门公布这些人和项目!!!移步:https://github.com/Anonymous-ghost/FuckCheater</h2>
 <h1>注意:<br/>
   切勿利用本工具对未授权的网站进行非法攻击。由此产生的法律后果由使用者自行承担!!!另外本软件不适合刚学渗透测试的人员使用。新手可以star一下。后续技术好点可以使用。新手误发私信(有关软件使用方法自己解决。扫描出漏洞自己解决)。另外由于大环境和广大朋友一再请求。在国内本软件将只在hw前放出时间一个月。在国内广大朋友平时勿扰。国内虎网放出。本工具将整合所有能整合的web漏洞本工具为综合性利用工具!!!。2022打算学习新知识框架5.0为终极版。Thanks To 敏捷线程池 Foreigner:啊米把 提供优秀的框架。郑重提示:有些国内外的大佬老是飞机和我讨论问谁牛不牛逼啥的这些就别来烦我了。我比较菜也只会写个工具。至于什么渗透测试 安卓逆向 代码审计 内网渗透啥的我也不懂。我只会开发工具。别浪费时间讨论我牛不牛逼多花点时间学习学习提高自己。我承认我不牛逼比较菜。讨论这些的也别和我讨论我不牛逼骚扰太多的话我直接永久拉黑。注意:tg飞机上 有飞鱼公子 啥的这些都不是github的这个别被骗子骗了!!!!</h1>
   
@@ -40,7 +44,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <li>下次更新将补weblogic漏洞将新增spring data  Spring Cloud 等漏洞并且时时更新爆出的高危中危漏洞敬请期待!!!!</li>
   <!--<li>之前去某公司面试有人说你这软件不就是把所有漏洞集成起来了。何必重复造轮子有什么优点。现在我说一下这款软件支持百万url自动化入侵。别的轮子能比???。这就是优点。由此可见面试官不一定技术就牛逼。当然还有别的优点。自行脑补</li>
 -->
-   <li>方便国内外友人交流创建飞机</li>
+
 <li>最后感谢大家对本软件的支持</li>
   </ul>
   <h1>issue和私信问题答疑和未来打算</h1>
@@ -50,12 +54,13 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
   <li>有人问软件是否考虑开源,以后可能会考虑开放源代码。但是是小范围传播。以后计划会弄一个圈子(但不免费)分享我本人收集的源码。代码审计,实战渗透测试等东西一起交流学习!!!。为啥要收费呢。减少传播减少法律风险,另外对这些东西也是花了时间和精力的。毕竟吃饱了饭才有动力干活不是么。敬请期待吧!!!近半年内不会组建圈子。因为本人要学习深造自己</li>
 <h3><li>软件限制五十条是为了防止有些人利用软件谋利甚至是非法大批量攻击某些站点。另外新安全法。新版本5.0限制五十条。</li></h3>
 <li>最后感谢大家对本软件的支持</li>
+
   </ul>
   <h1>AttackWebFrameworkTools 5.0 2022-02-05</h1>
   软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定有误报但增加成功率!!!争取把遗漏率降到最低!!!<br/>
   如果用的旧版本出现误报请下载新版本在测试一次。如果还存在误报。直接标注最新版(Soft Update 2021-04-24)例如:和信下一代xxx存在误报.邮箱最近有人频繁骚扰。再说一次别给我发邮件没有什么重要的事儿警告不听直接邮件黑名单处理。
-  <!--有事飞机✈️同样方便和外国友人交流到飞机群上报。别光截图。<br/>
-  飞机群:bug report telegram:https://t.me/softcum  contact me。加群答案:百度搜索github。请看群公告触犯将永久封禁。之前被机器人封禁(机器人自动解封)的已经解封可以重新进群。如果加入输入答案错误被机器人封禁的。请几分钟以后再尝试加群。--></br>另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>5.0更新加入单个网站的批量测试。加入了自定义作者的功能。5.0加入了代理检测功能!!!检测到代理立刻退出软件运行。5.0升级版本加入了升级自动提醒功能,加入了一键生成利用exp功能用户自写dll。等功能关于5.0使用方法请看软件使用方法</h3>
+有事飞机✈️同样方便和外国友人交流到飞机群上报。别光截图。<br/>
+  飞机群:bug report telegram:https://t.me/softcomu contact me。加群答案:百度搜索github。请看群公告触犯将永久封禁。之前被机器人封禁(机器人自动解封)的已经解封可以重新进群。如果加入输入答案错误被机器人封禁的。请几分钟以后再尝试加群。</br>另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>5.0更新加入单个网站的批量测试。加入了自定义作者的功能。5.0加入了代理检测功能!!!检测到代理立刻退出软件运行。5.0升级版本加入了升级自动提醒功能,加入了一键生成利用exp功能用户自写dll。等功能关于5.0使用方法请看软件使用方法</h3>
 
  ![menu](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/5.0Exp.png)
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/Menu-dll-5.0.png)
@@ -69,6 +74,15 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+  <li>2022-10-07 增加 -m参数列出所有内置模块</li>
+   <li>2022-10-04 更新 排除模块功能选项具体。看演示截图 修复dnslog 逻辑 代码</li>
+   <li>2022-09-28 更新 easyCVR 接口信息泄露(gateway)</li>
+  <li>2022-08-26 更新  zimbra-邮件系统文件上传漏洞 CVE-2022-27925 From https://github.com/miko550/CVE-2022-27925   (zimbra),金和oa文件上传漏洞,用友时空 ksoa 任意文件上传,致翔OA sql注入(oaAll)</li>
+   <li>更新日志记录软件已经停止更新!!!</li>
+  <li>以下为2022-08-18软件更新日志记录!!!</li>
+   <li>2022-08-17 更新 修复http编码导致部分网站遗落的重大bug 更新 nsfocus resourse.php 任意文件上传漏洞,安恒明御waf绕过登录(firewall),红帆医用系统sql注入漏洞,浪擎灾被软件添加用户(hwcms), 华天动力文件上传(htoa),用友u8任意文件上传(yongyougrp),泛微-EOffice文件上传漏洞,泛微OA ecology9任意文件上传,泛微OA 文件上传，weaverEcology8 sessionKey登录(weaveroa),h3c cas文件上传漏洞,天融信上网审计管理系统rce,联软安界 UniSDP 软件定义边界系统RCE(yunwei),用友nc GRP文件上传漏洞(yongyouu8),致远oa任意文件上传漏洞!!!!(seeyonoa)等共计16枚漏洞,软件后续发布!!!!
+   </li>
+  <li>2022-07-19 更新 蓝凌OA treexml RCE 过阿里云webshell,使用自定义编码器过阿里云流量监测(landrayoa),thinkphp 任意文件读取漏洞 开启debug模式(thinkphp) </li>
    <li>2022-06-15 更新 Apereo Cas 4.1.x  反序列化漏洞(yunwei),Atlassian Confluence存在远程代码执行漏洞CVE-2022-26134(atlassianconfl)</li>
     <li>2022-05-19 更新CVE-2022-30525(firewall)  zyxel 远程命令执行漏洞。该漏洞由于不回显采用 dnslog方式探测根据网络原因 可能会出现漏报!!!! </li>
    <li>2022-05-09 更新CVE-2022-1388  F5 big ip Rce (bigip) 由于exp特殊原因.net框架特殊原因只进行检测可能会有误报 from https://github.com/bytecaps/CVE-2022-1388-EXP </li>
@@ -180,7 +194,9 @@ Finetree-5MP-摄像机 未授权添加账号密码,弱密码
   <h3>内置exp模式</h3>
 url.txt 中网站一行一个且必须以http:// https:// 开头<br/>
 启动勾选模式,需要创建include.txt。模块一行一个具体看 勾选功能演示<br/>
+启动排除模块模式,需要创建uninclude.txt。模块一行一个具体看 排除模块功能演示<br/>
 AttackWebFrameworkTools.exe 所有exp都跑使用默认线程模式(注意劲量不要使用全部模块一个耗时太长。另一个有waf被ban ip导致速度变慢建议使用勾选模块方式或者指定模块。如果您确定没有waf什么影响那么全部模块没毛病!!!)<br/>
+AttackWebFrameworkTools.exe  -m 列出所有内置模块名称<br/>
 AttackWebFrameworkTools.exe  -thread 200 所有exp都跑使用自定义线程模式<br/>
 AttackWebFrameworkTools.exe -type thinkphp 使用默认线程跑 thinkphp框架漏洞使用说明<br/>
 AttackWebFrameworkTools.exe -type thinkphp -thread 200 使用自定义线程 线程跑 thinkphp框架漏洞<br/>
@@ -203,7 +219,7 @@ AttackWebFrameworkToolsUser.exe -url http://www.baidu.com -dllname test.dll    �
  演示忘记截图加ThreadHelper.dll 必须要有否则报错。。
  ![userage](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/UserDllExpHelp.png)
  ![userage](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/DllAttack.png)
-  如果要使用勾选功能见上图实测效果。勾选功能演示。如果想自定义作者见自定义作者演示图<br/>
+  如果要使用勾选功能见上图实测效果。勾选功能演示。如果想启用排除模块功能,请看排除模块功能截图演示 如果想自定义作者见自定义作者演示图<br/>
 <h3>内置exp模块</h3>
 集成漏洞如下(-type参数) 注意有的type参数虽然标注了两个类别但并不代表这个参数只包含这两个漏洞!!!!<br/>
 thinkphp<br/>
@@ -292,9 +308,10 @@ api(接口漏洞集合)<br/>
 sunlogin<br/>
 zabbix<br/>
 spring(此为spring类型漏洞集合)<br/>
-oa(一米OA,致翔OA不出名oa集合)<br/>
 cms(常见cms cmseasy)<br/>
 vmware(vmwareworkspace,vmware系列产品集合)<br/>
+zimbra(zimbra系列产品漏洞集合)<br/>
+oaAll(不知名oa漏洞集合)<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
@@ -312,8 +329,9 @@ vmware(vmwareworkspace,vmware系列产品集合)<br/>
 <li>Dlink漏洞需要有AttackWebFrameworkTools.exe.config 并且一个网站一分钟内最多可以检测三次超过三次即使漏洞存在也检测不到 这个目前反弹shell方式不清楚<br/></li>
 <li>solr CVE-2017-12629 漏洞检测时间耗时较长请耐心等待结果</li>
 <li>建议进行针对对性漏洞测试全量跑耗时就容易被waf封<br/></li>
-<li>为了避免被非法利用工具软件最大支持检测url个数为50条</li>
-<li>另外说如果有合适的exp或者poc可以联系我telegram:https://t.me/softcum  contact me。另外如果有bug或者好的建议也可以把意见发送到我的飞机群。如果工具有误报请把你的截图附上关键url可打码。如果是-type参数请指明。啥也没有我不好判断bug点!!!!感谢支持。一起携手打造web框架自动化测试工具</li>
+<li>为了避免被非法利用工具软件最大支持检测url个数为100条</li>
+<li>如果工具有误报请把你的截图附上关键url可打码。如果是-type参数请指明。啥也没有我不好判断bug点!!!!感谢支持。一起携手打造web框架自动化测试工具</li>
+ 
 </ul>
 <h2>为什么有的框架集成了部分漏洞,为什么有的框架漏洞没有集成</h2>
 <ul>
@@ -339,6 +357,16 @@ YAPI RCE 漏洞实战测试
 勾选功能演示
 
 ![勾选功能](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/include.png)<br/>
+
+列出软件内置模块截图
+
+![列出软件内置模块截图](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools-5.0/main/%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97%E7%94%A8%E6%B3%95%E6%88%AA%E5%9B%BE.png)<br/>
+
+![列出软件内置模块截图2](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools-5.0/main/%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97%E7%94%A8%E6%B3%95%E6%88%AA%E5%9B%BE2.png)<br/>
+
+排除模块功能演示
+
+![排除模块功能](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/uninclude.png)<br/>
 
 CVE-2021-30461 VOIP Monitor RCE 演示截图
 
