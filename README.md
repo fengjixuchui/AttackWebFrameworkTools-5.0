@@ -358,6 +358,12 @@ YAPI RCE 漏洞实战测试
 
 ![勾选功能](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/include.png)<br/>
 
+列出软件内置模块截图
+
+![列出软件内置模块截图](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools-5.0/main/%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97%E7%94%A8%E6%B3%95%E6%88%AA%E5%9B%BE.png)<br/>
+
+![列出软件内置模块截图2](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools-5.0/main/%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97%E7%94%A8%E6%B3%95%E6%88%AA%E5%9B%BE2.png)<br/>
+
 排除模块功能演示
 
 ![排除模块功能](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/uninclude.png)<br/>
